@@ -1,6 +1,6 @@
 {
   "$schema": "https://cdn.scalar.com/schema/scalar-config.json",
-  "subdomain": "my-subdomain",
+  "subdomain": "test-asya",
   "guides": [
     {
       "name": "My Documentation Site",
